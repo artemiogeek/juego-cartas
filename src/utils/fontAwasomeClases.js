@@ -48,7 +48,6 @@ export default () => [
     "fa-bars",
     "fa-bed",
     "fa-beer",
-
     "fa-bold",
     "fa-bolt",
     "fa-bomb",
@@ -77,7 +76,6 @@ export default () => [
     "fa-caret-square-o-down",
     "fa-caret-square-o-left",
     "fa-caret-square-o-right",
-
     "fa-chevron-circle-right",
     "fa-chevron-circle-up",
     "fa-chevron-down",
@@ -102,7 +100,6 @@ export default () => [
     "fa-coffee",
     "fa-cog",
     "fa-cogs",
-
     "fa-connectdevelop",
     "fa-copy",
     "fa-copyright",
@@ -129,7 +126,6 @@ export default () => [
     "fa-dribbble",
     "fa-dropbox",
     "fa-drupal",
-
     "fa-info-circle",
     "fa-inr",
     "fa-instagram",
@@ -154,7 +150,6 @@ export default () => [
     "fa-level-up",
     "fa-life-bouy",
     "fa-life-buoy",
-
     "fa-rocket",
     "fa-rotate-left",
     "fa-rotate-right",
@@ -179,7 +174,6 @@ export default () => [
     "fa-share-square",
     "fa-share-square-o",
     "fa-shekel",
-
     "fa-tablet",
     "fa-tachometer",
     "fa-tag",
@@ -204,7 +198,6 @@ export default () => [
     "fa-times-circle-o",
     "fa-tint",
     "fa-toggle-down",
-
     "fa-try",
     "fa-tty",
     "fa-tumblr",
